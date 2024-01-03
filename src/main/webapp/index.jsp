@@ -8,7 +8,7 @@
 <h1 style="background-color:Gray;">Gray</h1>
 <h1 style="background-color:SlateBlue;">SlateBlue</h1>
 <h1 style="background-color:Violet;">Violet</h1>
-<h1 style="background-color:LightGray;">LightGray</h1>
+<h1 style="background-color:green;">LightGray</h1>
 
 </body>
 </html>

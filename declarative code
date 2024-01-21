@@ -46,7 +46,7 @@ pipeline {
       script {
           docker.withRegistry( 'https://registry.hub.docker.com', 'dockerhub' ) {
              /* Build Docker Image locally */
-             myImage = docker.build("adamtravis/testimg")
+             myImage = docker.build("adamtravis/testing")
 
              /* Push the container to the Registry */
              myImage.push()

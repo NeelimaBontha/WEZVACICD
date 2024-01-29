@@ -8,7 +8,7 @@
 <h1 style="background-color:pink;">pink</h1>
 <h1 style="background-color:SlateBlue;">SlateBlue</h1>
 <h1 style="background-color:purple;">purple</h1>
-<h1 style="background-color:darkpink;">darkpink</h1>
+<h1 style="background-color:yellow;">yellow</h1>
 
 </body>
 </html>
